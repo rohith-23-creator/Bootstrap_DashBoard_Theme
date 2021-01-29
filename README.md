@@ -1,5 +1,5 @@
 # Bootstrap_DashBoard_Theme
-Single Dashboard theme using Bootstrap 4
+A Single Page Dashboard theme using Bootstrap 4
 
 # Features 
 
